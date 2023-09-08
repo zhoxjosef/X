@@ -19,7 +19,7 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐇𝐎𝐋𝐋𝐘 𝐌𝐔𝐒𝐈
 OWNER_ID = list(map(int, getenv("OWNER_ID", "399401433").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", "153d8493-12e3-4b7d-a1a5-04d31fbb0c54")
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "zhoXjosef")
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "zhoxjosef")
 
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/JOZANDZHO/HOOLLY.V100")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
