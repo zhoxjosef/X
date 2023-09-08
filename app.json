@@ -1,5 +1,5 @@
 {
-  "name": "HOLLY.V3 Music Bot",
+  "name": "HOLLY.X Music Bot",
   "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
   "logo": "https://telegra.ph/file/06b54da9ebe1e02421eb8.jpg",
   "keywords": [
@@ -59,7 +59,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Your heroku app/bot's name",
-      "value": "zhoXjosef",
+      "value": "zhoxjosef",
       "required": false
     },
     "LOG_GROUP_ID": {
